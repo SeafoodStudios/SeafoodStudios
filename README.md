@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SeafoodStudios
 - 👀 I’m interested in fish.
 - 🌱 I’m currently learning Python and a bit of HTML. Please check out my website.
-- ⚡ Fun fact: Fish don't have 3-D vision because their eyes are on the sides of their heads.
+- ⚡ Fun fact: I eat fish.
